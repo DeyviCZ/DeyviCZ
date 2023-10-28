@@ -2,11 +2,10 @@
   <img src="banner.png" alt="header-image">
 </h1>
 
-*** Hello
+** Hello
 I'm Deyvi, and I'm in the process of becoming a "Front-End Developer".
 
-*** Frontend technologies
-
+** Frontend technologies
   <div align="left">
       <span>
         <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -19,7 +18,8 @@ I'm Deyvi, and I'm in the process of becoming a "Front-End Developer".
       </span>
   </div>
 
-*** Softwares and Tools:
+
+** Softwares and Tools:
   <div align="left">
     <span>
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
@@ -35,14 +35,14 @@ I'm Deyvi, and I'm in the process of becoming a "Front-End Developer".
     </span>
   </div>
 
-*** Cloud and Database
+** Cloud and Database
     <div align="left">
       <span>
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
       </span>      
     </div>
 
-*** Frameworks - Actually Learning    
+** Frameworks - Actually Learning    
     <div>
       <span>
          <img src="react.png" alt="react" width="80px" height="90px">
@@ -52,7 +52,7 @@ I'm Deyvi, and I'm in the process of becoming a "Front-End Developer".
       </span>
     </div>
 
-*** Social Media    
+** Social Media    
     <div>
       <span>
         <a target="_black" href="https://www.instagram.com/daviz357/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
