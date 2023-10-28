@@ -45,10 +45,10 @@ I'm Deyvi, and I'm in the process of becoming a "Front-End Developer".
 *** Frameworks - Actually Learning    
     <div>
       <span>
-         <img src="react.png" alt="react" width="80px" height="100px">
+         <img src="react.png" alt="react" width="80px" height="90px">
       </span>
       <span>
-         <img src="bootstrap.png" alt="bootstrap" width="80px" height="100px">
+         <img src="bootstrap.png" alt="bootstrap" width="80px" height="90px">
       </span>
     </div>
 
