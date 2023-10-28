@@ -45,6 +45,19 @@ I'm Deyvi, and I'm in the process of becoming a "Front-End Developer".
 *** Frameworks - Actually Learning    
     <div>
       <span>
-         <img src="react.png" alt="React" width="100px" height="100px">
+         <img src="react.png" alt="react" width="80px" height="100px">
+      </span>
+      <span>
+         <img src="bootstrap.png" alt="bootstrap" width="80px" height="100px">
       </span>
     </div>
+
+*** Social Media    
+    <div>
+      <span>
+        <a target="_black" href="https://www.instagram.com/daviz357/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+     </span>
+     <span>
+        <a target="_black" href="https://www.linkedin.com/in/deyvi-correa-zamora/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+     </span>
+   </div>
