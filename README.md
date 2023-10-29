@@ -42,11 +42,14 @@ I'm Deyvi, and I'm in the process of becoming a "Front-End Developer".
       </span>      
     </div>
 
-** Frameworks - Actually Learning    
+** Framework - Actually Learning    
     <div>
       <span>
          <img src="react.png" alt="react" width="80px" height="90px">
       </span>
+    </div>
+** Library - Actually Learning
+    <div> 
       <span>
          <img src="bootstrap.png" alt="bootstrap" width="80px" height="90px">
       </span>
