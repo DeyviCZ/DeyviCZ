@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="banner.png" alt="header-image">
+  <img src="Banner2024.png" alt="header-image">
 </h1>
 
 # Deyvi Correa Zamora
